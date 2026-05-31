@@ -15,4 +15,5 @@ Contributing authors: [jenjira.wonguka@gmail.com](mailto:jenjira.wonguka@gmail.c
 
 ## Overview
 
-This repository contains the source code, experimental setup, and supporting materials for implementing Recursive Bayesian Classification (RBC)-based surface water mapping using Sentinel-2 time-series imagery in the Mekong River Basin.
+This repository contains the preprocessed Sentinel-2 imagery, ground truth annotations,
+and classification results used for evaluation.
