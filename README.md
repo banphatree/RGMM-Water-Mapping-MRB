@@ -1,7 +1,5 @@
 # RGMM-Water-Mapping-MRB
 
-Official implementation of:
-
 **Enhancing Surface Water Mapping in the Mekong River Basin Using Recursive Classification on Sentinel-2 Time-Series**
 
 ## Authors
