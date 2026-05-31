@@ -11,6 +11,7 @@
 ² Nan Sandbox Project, Kasikorn Research Center, Learning Center and Academic Services Chulalongkorn University Network, Phasing, Mueang Nan, Nan 55000, Thailand
 
 *Corresponding author: [banphatree@g.swu.ac.th](mailto:banphatree@g.swu.ac.th)
+*Contributing authors: [jenjira.wonguka@gmail.com](mailto:jenjira.wonguka@gmail.com)
 
 ## Overview
 
